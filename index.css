@@ -1,1 +1,80 @@
 /* Your CSS goes here */
+*{
+    margin: 0px;
+    padding: 0px;
+}
+header{
+    background-color: red;
+    color: white;
+    height: 70px;
+}
+h1{
+    text-align: left;
+    font-size: 20px;
+    padding: 20px;
+    position: absolute;
+}
+nav,#lin{
+    text-align: right;
+    text-decoration: none;
+    font-size: 20px;
+    color: white;
+    padding: 20px;
+}
+.one{
+    background-color: orange;
+    padding: 10px;
+    color: white;
+    height: 150px;
+}
+#sec{
+    text-align: center;
+    color: white;
+    font-size: 60px;
+}
+#qoob{
+    text-align: center;
+    padding-left: 25px;
+    padding-right: 25;
+    font-size: 30px;
+}
+.two{
+    background-color: lightskyblue;
+    opacity: 0.5;
+    margin: 20px;
+}
+#se{
+    text-align: center;
+    font-size: 25px;
+}
+article{
+    margin: 20px;
+    padding: 10px;
+    flex-direction: column;
+}
+
+
+footer{
+    background-color: red;
+    color: white;
+    height: 70px;
+}
+h2{
+    text-align: left;
+    font-size: 20px;
+    padding: 10px;
+    position: absolute;
+}
+footer,#link{
+    text-align: right;
+    font-size: 20px;
+    padding: 10px;
+    color: white;
+    text-decoration: none;
+}
+/* #copy{
+    background-color: black;
+    color: white;
+    text-align: center;
+    font-size: 30px;
+} */
